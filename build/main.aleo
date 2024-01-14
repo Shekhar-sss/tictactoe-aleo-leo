@@ -10,7 +10,6 @@ struct Board:
     r2 as Row;
     r3 as Row;
 
-
 function new:
     cast 0u8 0u8 0u8 into r0 as Row;
     cast 0u8 0u8 0u8 into r1 as Row;
